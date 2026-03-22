@@ -1,0 +1,9 @@
+import numpy as np
+a = np.array([[12, 23, 45],[23, 45, 34],[75, 54, 35]])
+print("Enter array=", a)
+print("Minimum=", np.amin(a))
+print("Maximum=", np.amax(a))
+print("Mean=", np.mean(a))
+print("Median=", np.median(a))
+print("Standard deviation=", np.std(a))
+print("Variance=", np.var(a))
