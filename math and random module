@@ -1,0 +1,15 @@
+import math
+import random
+#square root
+sqrt_value = math.sqrt(144)
+print("Square root of 144:", sqrt_value)
+#gcd
+gcd_value = math.gcd(56, 98)
+print("GCD of 56 and 98:", gcd_value)
+#sine
+radians = math.radians(45)
+sine_value = math.sin(radians)
+print("Sine of 45 degrees:", sine_value)
+#round
+rounded_value = round(3.14159, 3)
+print("3.14159 rounded to 3 decimal places:", rounded_value)
